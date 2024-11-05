@@ -1,0 +1,11 @@
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/bin/Debug/net9.0/FileUpload.Application.deps.json
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/bin/Debug/net9.0/FileUpload.Application.dll
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/bin/Debug/net9.0/FileUpload.Application.pdb
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/FileUpload.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/FileUpload.Application.AssemblyInfoInputs.cache
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/FileUpload.Application.AssemblyInfo.cs
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/FileUpload.Application.csproj.CoreCompileInputs.cache
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/FileUpload.Application.dll
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/refint/FileUpload.Application.dll
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/FileUpload.Application.pdb
+/home/alpha/RiderProjects/FileUpload.NET/FileUpload.Application/obj/Debug/net9.0/ref/FileUpload.Application.dll

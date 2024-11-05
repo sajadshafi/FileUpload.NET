@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "BvANVPqGIuF2IEB9ODL328cz021bsSDi/kL9UCmhAqc=",
+  "Source": "FileUpload.API",
+  "BasePath": "_content/FileUpload.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileUpload.API/wwwroot",
+      "Source": "FileUpload.API",
+      "ContentRoot": "/home/alpha/RiderProjects/FileUpload.NET/FileUpload.API/wwwroot/",
+      "BasePath": "_content/FileUpload.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

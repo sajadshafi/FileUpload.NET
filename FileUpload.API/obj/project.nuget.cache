@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ygaayh44jfs=",
+  "success": true,
+  "projectFilePath": "/home/alpha/RiderProjects/FileUpload.NET/FileUpload.API/FileUpload.API.csproj",
+  "expectedPackageFiles": [
+    "/home/alpha/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0-rc.2.24474.3/microsoft.aspnetcore.openapi.9.0.0-rc.2.24474.3.nupkg.sha512",
+    "/home/alpha/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/alpha/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/alpha/.nuget/packages/swashbuckle.aspnetcore/6.9.0/swashbuckle.aspnetcore.6.9.0.nupkg.sha512",
+    "/home/alpha/.nuget/packages/swashbuckle.aspnetcore.swagger/6.9.0/swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "/home/alpha/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.9.0/swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
+    "/home/alpha/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.9.0/swashbuckle.aspnetcore.swaggerui.6.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
